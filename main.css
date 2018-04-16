@@ -7,7 +7,7 @@ html * {
 div#heroCSS {
     width: 100vw;
     height:500px;
-    background-image: url(/hero-landing-example.png);
+    background-image: url(/example/hero-landing-example.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
