@@ -1,0 +1,27 @@
+html * {
+    /* resets */
+    margin: 0;
+    padding: 0;
+}
+
+div#heroCSS {
+    width: 100vw;
+    height:500px;
+    background-image: url(/hero-landing-example.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div#heroImg {
+    position: relative;
+}
+
+div#heroImg img {
+    /* dont really do this...this is hacky */
+    position: absolute;
+}
+
+div#heroImg h1 {
+    /* dont really do this...this is hacky */
+    position: relative;
+}
